@@ -1,0 +1,21 @@
+#IDX-saveSearch{
+display:none;
+}
+div#IDX-resultsHeader {
+    padding-top: 10px;
+}
+#IDX-contactAgent{
+display:none;
+}
+.IDX-detailsLink-scheduleShowing {
+display:none;
+}
+
+.IDX-propertySaved{
+display:none;
+}
+.IDX-saveProperty{
+display:none;
+}
+
+#IDX-moreInfo { display: none; }
